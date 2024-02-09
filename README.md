@@ -291,7 +291,7 @@ Located in the embeddings_demo subfolder, this script provides a complete web ap
 To use Azure OpenAI, you need to configure the necessary environment variables. Create a .env file in the repository root directory and set the following variables:
 ```dotenv
 AZURE_OPENAI_VERSION = your_version  
-AZURE_OPENAI_BASE = your_base 
+AZURE_OPENAI_ENDPOINT = your_base 
 AZURE_OPENAI_KEY = your_api_key 
 AZURE_GPT_DEPLOYMENT = your_gpt_deployment
 AZURE_EMBEDDINGS_DEPLOYMENT = your_embeddings_deployment
